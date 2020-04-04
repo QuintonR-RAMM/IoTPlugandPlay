@@ -77,7 +77,7 @@
       "@type": "InterfaceInstance",
       "name": "sensor",
       "schema": {
-        "@id": "urn:<YOUR_COMPANY_NAME_HERE>:EnvironmentalSensor:1",
+        "@id": "urn:YOUR_COMPANY_NAME_HERE:EnvironmentalSensor:1",
         "@type": "Interface",
         "displayName": "Environmental Sensor",
         "@context": "http://azureiot.com/v1/contexts/IoTModel.json",
